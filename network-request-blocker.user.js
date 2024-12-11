@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Comprehensive Network Request Blocker
 // @namespace    http://tampermonkey.net/
-// @version      1.2.3
+// @version      1.0.1
 // @description  Block network requests (GET, POST, and others) similar to Chrome DevTools' Network block function
-// @author       Your Name
+// @author       Briandyy
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
@@ -23,11 +23,11 @@
         'https://online-test.pintro.id/assets/images/templates/tab.svg',
 
         // Patterns (using regular expressions)
-        /^https?:\/\/.*\.png$/,
-        /^https?:\/\/.*\.jpg$/,
-        /^https?:\/\/.*\.savagees$/,
-        /^https?:\/\/.*\/ads\//,
-        /^https?:\/\/tracking\.pixel\.com\//, // Added regex for DeepL logout with any query parameters
+        /^https?:\/\/.*\.pznalgojkasdbnjhbuiehugbubfuvbuioaujioi$/,
+        /^https?:\/\/.*\.japegxqwioheuihfdbbxciubausheuhwuiggbsn$/,
+        /^https?:\/\/.*\.savageansdhnduiahwiuryugeyrgyufggyusag$/,
+        /^https?:\/\/.*\/sagalikzhxiohwiaoweihihfdihsoasdd\//,
+        /^https?:\/\/tracking\.pixelllllllllllllllllllllllllllll\.com\//, // Added regex for DeepL logout with any query parameters
         // Add more patterns as needed
     ];
 
