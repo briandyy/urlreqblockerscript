@@ -7,8 +7,8 @@
 // @match        *://*/*
 // @run-at       document-start
 // @grant        none
-// @updateURL    https://github.com/briandyy/urlreqblockerscript/raw/refs/heads/main/network-request-blocker.user.js
-// @downloadURL  https://github.com/briandyy/urlreqblockerscript/raw/refs/heads/main/network-request-blocker.user.js
+// @updateURL    https://raw.githubusercontent.com/briandyy/urlreqblockerscript/main/network-request-blocker.user.js
+// @downloadURL  https://raw.githubusercontent.com/briandyy/urlreqblockerscript/main/network-request-blocker.user.js
 // ==/UserScript==
 
 (function() {
