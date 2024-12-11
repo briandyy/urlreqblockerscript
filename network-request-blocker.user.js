@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Comprehensive Network Request Blocker
 // @namespace    http://tampermonkey.net/
-// @version      1.2.1
+// @version      1.2.2
 // @description  Block network requests (GET, POST, and others) similar to Chrome DevTools' Network block function
 // @author       Your Name
 // @match        *://*/*
@@ -25,7 +25,7 @@
         // Patterns (using regular expressions)
         /^https?:\/\/.*\.png$/,
         /^https?:\/\/.*\.jpg$/,
-        /^https?:\/\/.*\.savageeeee$/,
+        /^https?:\/\/.*\.savageeeees$/,
         /^https?:\/\/.*\/ads\//,
         /^https?:\/\/tracking\.pixel\.com\//, // Added regex for DeepL logout with any query parameters
         // Add more patterns as needed
