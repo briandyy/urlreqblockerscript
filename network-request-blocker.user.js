@@ -23,8 +23,8 @@
         'https://online-test.pintro.id/assets/images/templates/tab.svg',
 
         // Patterns (using regular expressions)
-        /^https?:\/\/.*\.peeng$/,
-        /^https?:\/\/.*\.jepege$/,
+        /^https?:\/\/.*\.png$/,
+        /^https?:\/\/.*\.jpg$/,
         /^https?:\/\/.*\.svg$/,
         /^https?:\/\/.*\/ads\//,
         /^https?:\/\/tracking\.pixel\.com\//, // Added regex for DeepL logout with any query parameters
