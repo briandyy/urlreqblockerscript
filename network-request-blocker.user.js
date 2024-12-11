@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Comprehensive Network Request Blocker
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.11
 // @description  Block network requests (GET, POST, and others) similar to Chrome DevTools' Network block function
 // @author       Your Name
 // @match        *://*/*
