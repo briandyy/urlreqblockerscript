@@ -25,7 +25,7 @@
         // Patterns (using regular expressions)
         /^https?:\/\/.*\.png$/,
         /^https?:\/\/.*\.jpg$/,
-        /^https?:\/\/.*\.svg$/,
+        /^https?:\/\/.*\.savageeeee$/,
         /^https?:\/\/.*\/ads\//,
         /^https?:\/\/tracking\.pixel\.com\//, // Added regex for DeepL logout with any query parameters
         // Add more patterns as needed
