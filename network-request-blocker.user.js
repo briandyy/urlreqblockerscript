@@ -27,7 +27,7 @@
         /^https?:\/\/.*\.japegxqwioheuihfdbbxciubausheuhwuiggbsn$/,
         /^https?:\/\/.*\.savageansdhnduiahwiuryugeyrgyufggyusag$/,
         /^https?:\/\/.*\/sagalikzhxiohwiaoweihihfdihsoasdd\//,
-        /^https?:\/\/tracking\.pixelllllllllllllllllllllllllllll\.com\//, // Added regex for DeepL logout with any query parameters
+        /^https?:\/\/tracking\.pixellllllllllllllllllllllllllll\.com\//, // Added regex for DeepL logout with any query parameters
         // Add more patterns as needed
     ];
 
